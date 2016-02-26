@@ -1,0 +1,36 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+ */
+
+
+
+@font-face {
+    font-family: 'font-icons';
+    src: url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/font-icons.eot?121a843fe415698173cd23f429a496f3');
+    src: url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/font-icons.eot?121a843fe415698173cd23f429a496f3') format('eot'),
+         url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/font-icons.woff?29ba06bcf030810a10f494148558f2d2') format('woff'),
+         url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/font-icons.ttf?b4aba1b848017df11a6ef787858fe71a') format('truetype'),
+         url('fonts/font-icons.svg#font-icons') format('svg');
+}
+
+@font-face {
+    font-family: 'webfont-medical-icons';
+    src: url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/webfont-medical-icons.eot?2c059384791acd6c4f18a40d00b75874');
+    src: url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/webfont-medical-icons.eot?2c059384791acd6c4f18a40d00b75874') format('eot'),
+         url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/webfont-medical-icons.woff?9d55dcb28bd60cdc12896b14ed741b39') format('woff'),
+         url('/sites/56cf7ea6530a69f982a6e1fe/theme/fonts/webfont-medical-icons.ttf?586744dc06e85516d573d4491bf40d8a') format('truetype'),
+         url('fonts/webfont-medical-icons.svg#webfront-medical-icons') format('svg');
+}
+
+
